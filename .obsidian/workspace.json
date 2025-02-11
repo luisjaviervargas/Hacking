@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plantilla.md",
+                "file": "picoCTF/picoCTF - General Skills 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plantilla"
+              "title": "picoCTF - General Skills 1"
             }
           }
         ],
@@ -183,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4008fc6164652cd8",
+  "active": "0742b11357a0d99e",
   "lastOpenFiles": [
-    "PicoCTF",
-    "README.md",
-    "plantilla.md"
+    "plantilla.md",
+    "picoCTF/picoCTF - General Skills 1.md",
+    "picoCTF",
+    "README.md"
   ]
 }
