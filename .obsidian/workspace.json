@@ -11,10 +11,14 @@
             "id": "8d23556959bab55c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF - General Skills 2/useless.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "useless"
             }
           }
         ]
@@ -166,18 +170,28 @@
   },
   "active": "8d23556959bab55c",
   "lastOpenFiles": [
-    "picoCTF - General Skills 1/2Warm.md",
-    "picoCTF - General Skills 1/Bases.md",
-    "picoCTF - General Skills 1/First Grep.md",
-    "picoCTF - General Skills 1/Glitch Cat.md",
-    "picoCTF - General Skills 1/Lets Warm Up.md",
+    "picoCTF - General Skills 2/Tab, Tab, Attack.md",
+    "picoCTF - General Skills 2/strings it.md",
+    "picoCTF - General Skills 2/Static ain't always noise.md",
+    "picoCTF - General Skills 2/repetitions.md",
+    "picoCTF - General Skills 2/Magikarp Ground Mission.md",
+    "picoCTF - General Skills 2/First Find.md",
+    "picoCTF - General Skills 2/Big zip.md",
+    "picoCTF - General Skills 2/Based.md",
+    "picoCTF - General Skills 2/useless.md",
+    "picoCTF - General Skills 2/Wave a flag.md",
     "picoCTF - General Skills 1/Nice netcat....md",
+    "picoCTF - General Skills 1/Glitch Cat.md",
+    "picoCTF - General Skills 1/First Grep.md",
+    "picoCTF - General Skills 1/Bases.md",
+    "picoCTF - General Skills 1/2Warm.md",
+    "plantilla.md",
+    "README.md",
+    "picoCTF - General Skills 1/Lets Warm Up.md",
     "picoCTF - General Skills 1/Obedinet Cat.md",
     "picoCTF - General Skills 1/plumbing.md",
     "picoCTF - General Skills 1/Warmed Up.md",
     "picoCTF - General Skills 1/What´s a net cat.md",
-    "plantilla.md",
-    "README.md",
     "retosCTF/file",
     "retosCTF",
     "picoCTF - General Skills 1"
