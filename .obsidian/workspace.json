@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF - General Skills 2/useless.md",
+                "file": "picoCTF - General Skills 3/Super SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useless"
+              "title": "Super SSH"
             }
           }
         ]
@@ -170,6 +170,19 @@
   },
   "active": "8d23556959bab55c",
   "lastOpenFiles": [
+    "picoCTF - General Skills 3/Serpentine.md",
+    "picoCTF - General Skills 3/runme.py.md",
+    "picoCTF - General Skills 3/PW Crack 3.md",
+    "picoCTF - General Skills 3/PW Crack 2.md",
+    "picoCTF - General Skills 3/PW Crack 1.md",
+    "picoCTF - General Skills 3/fixme2.py.md",
+    "picoCTF - General Skills 3/fixme1.py.md",
+    "picoCTF - General Skills 3/convertme.py.md",
+    "picoCTF - General Skills 3/Codebook.md",
+    "picoCTF - General Skills 3/Super SSH.md",
+    "plantilla.md",
+    "picoCTF - General Skills 2/useless.md",
+    "picoCTF - General Skills 3",
     "picoCTF - General Skills 2/Tab, Tab, Attack.md",
     "picoCTF - General Skills 2/strings it.md",
     "picoCTF - General Skills 2/Static ain't always noise.md",
@@ -178,20 +191,12 @@
     "picoCTF - General Skills 2/First Find.md",
     "picoCTF - General Skills 2/Big zip.md",
     "picoCTF - General Skills 2/Based.md",
-    "picoCTF - General Skills 2/useless.md",
     "picoCTF - General Skills 2/Wave a flag.md",
     "picoCTF - General Skills 1/Nice netcat....md",
     "picoCTF - General Skills 1/Glitch Cat.md",
     "picoCTF - General Skills 1/First Grep.md",
     "picoCTF - General Skills 1/Bases.md",
     "picoCTF - General Skills 1/2Warm.md",
-    "plantilla.md",
-    "README.md",
-    "picoCTF - General Skills 1/Lets Warm Up.md",
-    "picoCTF - General Skills 1/Obedinet Cat.md",
-    "picoCTF - General Skills 1/plumbing.md",
-    "picoCTF - General Skills 1/Warmed Up.md",
-    "picoCTF - General Skills 1/What´s a net cat.md",
     "retosCTF/file",
     "retosCTF",
     "picoCTF - General Skills 1"
