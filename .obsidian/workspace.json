@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5605dfd8795f3613",
+        "id": "0acf1cfa47eec300",
         "type": "tabs",
         "children": [
           {
-            "id": "8d23556959bab55c",
+            "id": "9ccb3b44b14c015b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF - General Skills 3/Super SSH.md",
+                "file": "Tarea 1- General Skills/time machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Super SSH"
+              "title": "time machine"
             }
           }
         ]
@@ -168,8 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d23556959bab55c",
+  "active": "9ccb3b44b14c015b",
   "lastOpenFiles": [
+    "Tarea 1- General Skills/special.md",
+    "Tarea 1- General Skills/permissions.md",
+    "Tarea 1- General Skills/committee issue.md",
+    "Tarea 1- General Skills/collaborative development.md",
+    "Tarea 1- General Skills/chrono.md",
+    "Tarea 1- General Skills/blame game.md",
+    "Tarea 1- General Skills/binhexa.md",
+    "Tarea 1- General Skills/binary search.md",
+    "Tarea 1- General Skills/ASCII Numbers.md",
+    "Tarea 1- General Skills/time machine.md",
+    "plantilla.md",
+    "Tarea 1- General Skills",
+    "picoCTF - General Skills 3/Super SSH.md",
     "picoCTF - General Skills 3/Serpentine.md",
     "picoCTF - General Skills 3/runme.py.md",
     "picoCTF - General Skills 3/PW Crack 3.md",
@@ -179,24 +192,12 @@
     "picoCTF - General Skills 3/fixme1.py.md",
     "picoCTF - General Skills 3/convertme.py.md",
     "picoCTF - General Skills 3/Codebook.md",
-    "picoCTF - General Skills 3/Super SSH.md",
-    "plantilla.md",
     "picoCTF - General Skills 2/useless.md",
     "picoCTF - General Skills 3",
     "picoCTF - General Skills 2/Tab, Tab, Attack.md",
     "picoCTF - General Skills 2/strings it.md",
     "picoCTF - General Skills 2/Static ain't always noise.md",
     "picoCTF - General Skills 2/repetitions.md",
-    "picoCTF - General Skills 2/Magikarp Ground Mission.md",
-    "picoCTF - General Skills 2/First Find.md",
-    "picoCTF - General Skills 2/Big zip.md",
-    "picoCTF - General Skills 2/Based.md",
-    "picoCTF - General Skills 2/Wave a flag.md",
-    "picoCTF - General Skills 1/Nice netcat....md",
-    "picoCTF - General Skills 1/Glitch Cat.md",
-    "picoCTF - General Skills 1/First Grep.md",
-    "picoCTF - General Skills 1/Bases.md",
-    "picoCTF - General Skills 1/2Warm.md",
     "retosCTF/file",
     "retosCTF",
     "picoCTF - General Skills 1"
