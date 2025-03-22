@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 1- General Skills/time machine.md",
+                "file": "PicoCTF - Web 1/picobrowser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "time machine"
+              "title": "picobrowser"
             }
           }
         ]
@@ -170,6 +170,15 @@
   },
   "active": "9ccb3b44b14c015b",
   "lastOpenFiles": [
+    "PicoCTF - Web 1/Client-side-again.md",
+    "PicoCTF - Web 1/dont-use-client-side.md",
+    "PicoCTF - Web 1/logon.md",
+    "PicoCTF - Web 1/where are the robots.md",
+    "PicoCTF - Web 1/picobrowser.md",
+    "PicoCTF - Web 1/Insp3ct0r.md",
+    "picoCTF - General Skills 1/2Warm.md",
+    "Tarea 1- General Skills/time machine.md",
+    "PicoCTF - Web 1",
     "Tarea 1- General Skills/special.md",
     "Tarea 1- General Skills/permissions.md",
     "Tarea 1- General Skills/committee issue.md",
@@ -179,7 +188,6 @@
     "Tarea 1- General Skills/binhexa.md",
     "Tarea 1- General Skills/binary search.md",
     "Tarea 1- General Skills/ASCII Numbers.md",
-    "Tarea 1- General Skills/time machine.md",
     "plantilla.md",
     "Tarea 1- General Skills",
     "picoCTF - General Skills 3/Super SSH.md",
@@ -190,14 +198,7 @@
     "picoCTF - General Skills 3/PW Crack 1.md",
     "picoCTF - General Skills 3/fixme2.py.md",
     "picoCTF - General Skills 3/fixme1.py.md",
-    "picoCTF - General Skills 3/convertme.py.md",
-    "picoCTF - General Skills 3/Codebook.md",
-    "picoCTF - General Skills 2/useless.md",
     "picoCTF - General Skills 3",
-    "picoCTF - General Skills 2/Tab, Tab, Attack.md",
-    "picoCTF - General Skills 2/strings it.md",
-    "picoCTF - General Skills 2/Static ain't always noise.md",
-    "picoCTF - General Skills 2/repetitions.md",
     "retosCTF/file",
     "retosCTF",
     "picoCTF - General Skills 1"
