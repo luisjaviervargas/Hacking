@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF - Web 2/Scavenger Huntd.md",
+                "file": "picoCTF - Web 3/Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger Huntd"
+              "title": "Irish-Name-Repo 1"
             }
           }
         ]
@@ -168,22 +168,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4008fc6164652cd8",
+  "active": "9ccb3b44b14c015b",
   "lastOpenFiles": [
+    "picoCTF - Web 3/JaWT Scratchpad.md",
+    "picoCTF - Web 3/More SQLi.md",
+    "picoCTF - Web 3/Irish-Name-Repo 1.md",
+    "plantilla.md",
+    "picoCTF - Web 2/Scavenger Huntd.md",
+    "picoCTF - Web 3",
     "picoCTF - Web 2/GET aHEAD.md",
     "picoCTF - Web 2/Cookies.md",
-    "picoCTF - Web 2/Scavenger Huntd.md",
     "picoCTF - General Skills 3/Codebook.md",
-    "PicoCTF - Web 1/picobrowser.md",
+    "picoCTF - Web 1/picobrowser.md",
     "picoCTF - Web 2",
-    "PicoCTF - Web 1/Client-side-again.md",
-    "PicoCTF - Web 1/dont-use-client-side.md",
-    "PicoCTF - Web 1/logon.md",
-    "PicoCTF - Web 1/where are the robots.md",
-    "PicoCTF - Web 1/Insp3ct0r.md",
+    "picoCTF - Web 1/Client-side-again.md",
+    "picoCTF - Web 1/dont-use-client-side.md",
+    "picoCTF - Web 1/logon.md",
+    "picoCTF - Web 1/where are the robots.md",
+    "picoCTF - Web 1/Insp3ct0r.md",
     "picoCTF - General Skills 1/2Warm.md",
     "Tarea 1- General Skills/time machine.md",
-    "PicoCTF - Web 1",
+    "picoCTF - Web 1",
     "Tarea 1- General Skills/special.md",
     "Tarea 1- General Skills/permissions.md",
     "Tarea 1- General Skills/committee issue.md",
@@ -193,12 +198,8 @@
     "Tarea 1- General Skills/binhexa.md",
     "Tarea 1- General Skills/binary search.md",
     "Tarea 1- General Skills/ASCII Numbers.md",
-    "plantilla.md",
     "Tarea 1- General Skills",
     "picoCTF - General Skills 3/Super SSH.md",
-    "picoCTF - General Skills 3/Serpentine.md",
-    "picoCTF - General Skills 3/runme.py.md",
-    "picoCTF - General Skills 3/PW Crack 3.md",
     "picoCTF - General Skills 3",
     "retosCTF/file",
     "retosCTF",
