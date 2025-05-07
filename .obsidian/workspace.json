@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Parcial - Parte 2 - Web/Cookie Monster Secret Recipe.md",
+                "file": "picoCTF - Forensic 3/Webnet1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cookie Monster Secret Recipe"
+              "title": "Webnet1"
             }
           }
         ]
@@ -168,8 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4008fc6164652cd8",
+  "active": "9ccb3b44b14c015b",
   "lastOpenFiles": [
+    "picoCTF - Forensic 3/WebNet0.md",
+    "picoCTF - Forensic 3/tunn3l_v1s10n.md",
+    "picoCTF - Forensic 3/Matryoshka doll.md",
+    "picoCTF - Forensic 3/MacroHard WeakEdge.md",
+    "picoCTF - Forensic 3/Webnet1.md",
+    "plantilla.md",
+    "README.md",
+    "Primer Parcial - Parte 2 - Web/Cookie Monster Secret Recipe.md",
+    "picoCTF - Forensic 3",
     "Primer Parcial - Parte 2 - Web/findme.md",
     "Primer Parcial - Parte 2 - Web/head-dump.md",
     "Primer Parcial - Parte 2 - Web/Java Code Analysis !!.md",
@@ -178,7 +187,6 @@
     "Primer Parcial - Parte 2 - Web/SSTI1.md",
     "Primer Parcial - Parte 2 - Web/SSTI2.md",
     "Primer Parcial - Parte 2 - Web/WebSockFish.md",
-    "Primer Parcial - Parte 2 - Web/Cookie Monster Secret Recipe.md",
     "Primer Parcial - Parte 2 - Web/Bookmarklet.md",
     "Primer Parcial - Parte 1 - General Skills/Specialer.md",
     "Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
@@ -189,22 +197,14 @@
     "Primer Parcial - Parte 1 - General Skills/HashingJobApp.md",
     "Primer Parcial - Parte 1 - General Skills/flag_shop.md",
     "Primer Parcial - Parte 1 - General Skills/FANTASY CTF.md",
-    "Primer Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
-    "plantilla.md",
-    "picoCTF - Forensic 2/WhitePages.md",
     "Primer Parcial - Parte 2 - Web",
     "Primer Parcial - Parte 1 - General Skills",
-    "picoCTF - Forensic 2/shark on wire 2.md",
-    "picoCTF - Forensic 2/m00nwalk.md",
-    "picoCTF - Forensic 2/like1000.md",
-    "picoCTF - Forensic 2/c0rrupt.md",
     "picoCTF - Forensic 2",
     "picoCTF - Forensic 1/Untitled",
     "picoCTF - Forensic 1",
     "picoCTF - Web 4",
     "Tarea 2 - Retos Web",
     "picoCTF - Web 3",
-    "picoCTF - Web 2",
-    "picoCTF - Web 1"
+    "picoCTF - Web 2"
   ]
 }
