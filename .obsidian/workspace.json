@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF - Forensic 3/Webnet1.md",
+                "file": "picoCTF - Forensic 4/Sleuthkit Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Webnet1"
+              "title": "Sleuthkit Intro"
             }
           }
         ]
@@ -170,12 +170,19 @@
   },
   "active": "9ccb3b44b14c015b",
   "lastOpenFiles": [
+    "picoCTF - Forensic 4/Sleuthkit Apprentice.md",
+    "picoCTF - Forensic 4/Operation Orchid.md",
+    "picoCTF - Forensic 4/Operation Oni.md",
+    "picoCTF - Forensic 4/Milkslap.md",
+    "picoCTF - Forensic 4/Disk, disk, sleuth!.md",
+    "picoCTF - Forensic 4/Sleuthkit Intro.md",
+    "plantilla.md",
+    "picoCTF - Forensic 3/Webnet1.md",
+    "picoCTF - Forensic 4",
     "picoCTF - Forensic 3/WebNet0.md",
     "picoCTF - Forensic 3/tunn3l_v1s10n.md",
     "picoCTF - Forensic 3/Matryoshka doll.md",
     "picoCTF - Forensic 3/MacroHard WeakEdge.md",
-    "picoCTF - Forensic 3/Webnet1.md",
-    "plantilla.md",
     "README.md",
     "Primer Parcial - Parte 2 - Web/Cookie Monster Secret Recipe.md",
     "picoCTF - Forensic 3",
@@ -191,12 +198,6 @@
     "Primer Parcial - Parte 1 - General Skills/Specialer.md",
     "Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
     "Primer Parcial - Parte 1 - General Skills/Rust fixme 3.md",
-    "Primer Parcial - Parte 1 - General Skills/Rust fixme 2.md",
-    "Primer Parcial - Parte 1 - General Skills/Rust fixme 1.md",
-    "Primer Parcial - Parte 1 - General Skills/Python Wrangling.md",
-    "Primer Parcial - Parte 1 - General Skills/HashingJobApp.md",
-    "Primer Parcial - Parte 1 - General Skills/flag_shop.md",
-    "Primer Parcial - Parte 1 - General Skills/FANTASY CTF.md",
     "Primer Parcial - Parte 2 - Web",
     "Primer Parcial - Parte 1 - General Skills",
     "picoCTF - Forensic 2",
@@ -204,7 +205,6 @@
     "picoCTF - Forensic 1",
     "picoCTF - Web 4",
     "Tarea 2 - Retos Web",
-    "picoCTF - Web 3",
-    "picoCTF - Web 2"
+    "picoCTF - Web 3"
   ]
 }
